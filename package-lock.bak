@@ -421,7 +421,7 @@
             "integrity": "sha1-OciRjO/1eZ+D+UkqhI9iWt0Mdm8=",
             "dev": true,
             "requires": {
-                "hoek": "2.x.x"
+                "hoek": ">=4.2.1"
             }
         },
         "bootstrap": {
@@ -1056,7 +1056,7 @@
             "integrity": "sha1-PTJI/r4rFZYHMW2PnPSRwWZIIh0=",
             "dev": true,
             "requires": {
-                "lodash": "^3.10.1"
+                "lodash": ">=4.17.13"
             }
         },
         "eazy-logger": {
@@ -2529,7 +2529,7 @@
             "dev": true,
             "requires": {
                 "glob": "~3.1.21",
-                "lodash": "~1.0.1",
+                "lodash": ">=4.17.13",
                 "minimatch": "~0.2.11"
             },
             "dependencies": {
@@ -2557,7 +2557,7 @@
                     "dev": true
                 },
                 "lodash": {
-                    "version": "1.0.2",
+                    "version": ">=4.17.13",
                     "resolved": "https://registry.npmjs.org/lodash/-/lodash-1.0.2.tgz",
                     "integrity": "sha1-j1dWDIO1n8JwvT1WG2kAQ0MOJVE=",
                     "dev": true
@@ -2637,7 +2637,7 @@
             "dev": true,
             "requires": {
                 "concat-with-sourcemaps": "*",
-                "lodash.template": "^4.4.0",
+                "lodash.template": ">=4.17.13",
                 "through2": "^2.0.0"
             },
             "dependencies": {
@@ -2752,7 +2752,7 @@
             },
             "dependencies": {
                 "lodash": {
-                    "version": "4.17.4",
+                    "version": ">=4.17.4",
                     "resolved": "https://registry.npmjs.org/lodash/-/lodash-4.17.4.tgz",
                     "integrity": "sha1-eCA6TRwyiuHYbcpkYONptX9AVa4=",
                     "dev": true
@@ -2931,12 +2931,12 @@
             "requires": {
                 "boom": "2.x.x",
                 "cryptiles": "2.x.x",
-                "hoek": "2.x.x",
+                "hoek": ">=4.2.1",
                 "sntp": "1.x.x"
             }
         },
         "hoek": {
-            "version": "2.16.3",
+            "version": ">=4.2.1",
             "resolved": "https://registry.npmjs.org/hoek/-/hoek-2.16.3.tgz",
             "integrity": "sha1-ILt0A9POo5jpHcRxCo/xuCdKJe0=",
             "dev": true
@@ -3530,7 +3530,7 @@
             }
         },
         "lodash": {
-            "version": "3.10.1",
+            "version": ">=4.17.13",
             "resolved": "https://registry.npmjs.org/lodash/-/lodash-3.10.1.tgz",
             "integrity": "sha1-W/Rejkm6QYnhfUgnid/RW9FAt7Y=",
             "dev": true
@@ -4040,7 +4040,7 @@
                     "dev": true,
                     "requires": {
                         "glob": "~7.1.1",
-                        "lodash": "~4.17.4",
+                        "lodash": ">=4.17.13",
                         "minimatch": "~3.0.2"
                     }
                 },
@@ -4057,7 +4057,7 @@
                     }
                 },
                 "lodash": {
-                    "version": "4.17.5",
+                    "version": ">=4.17.13",
                     "resolved": "https://registry.npmjs.org/lodash/-/lodash-4.17.5.tgz",
                     "integrity": "sha512-svL3uiZf1RwhH+cWrfZn3A4+U58wbP0tGVTLQPbjplZxZ8ROD9VLuNgsRniTlLe7OlSqR79RUehXgpBW/s0IQw==",
                     "dev": true
@@ -4949,7 +4949,7 @@
             "dev": true,
             "requires": {
                 "glob": "^7.0.0",
-                "lodash": "^4.0.0",
+                "lodash": ">=4.17.13",
                 "scss-tokenizer": "^0.2.3",
                 "yargs": "^7.0.0"
             },
@@ -4975,7 +4975,7 @@
                     }
                 },
                 "lodash": {
-                    "version": "4.17.5",
+                    "version": ">=4.17.13",
                     "resolved": "https://registry.npmjs.org/lodash/-/lodash-4.17.5.tgz",
                     "integrity": "sha512-svL3uiZf1RwhH+cWrfZn3A4+U58wbP0tGVTLQPbjplZxZ8ROD9VLuNgsRniTlLe7OlSqR79RUehXgpBW/s0IQw==",
                     "dev": true
@@ -5314,7 +5314,7 @@
             "integrity": "sha1-ZUEYTMkK7qbG57NeJlkIJEPGYZg=",
             "dev": true,
             "requires": {
-                "hoek": "2.x.x"
+                "hoek": ">=4.2.1"
             }
         },
         "socket.io": {
