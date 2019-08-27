@@ -1415,12 +1415,12 @@ body {
 }
 .cid-rAlnrZnRvS .navbar {
   padding: .5rem 0;
-  background: #ffffff;
+  background: #f9f295;
   transition: none;
   min-height: 77px;
 }
 .cid-rAlnrZnRvS .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #f9f295;
 }
 .cid-rAlnrZnRvS a {
   font-style: normal;
@@ -1511,7 +1511,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rAlnrZnRvS .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #f9f295;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1582,7 +1582,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #0f7699;
 }
 .cid-rAlnrZnRvS button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
