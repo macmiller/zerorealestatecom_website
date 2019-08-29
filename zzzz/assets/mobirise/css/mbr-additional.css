@@ -3267,8 +3267,20 @@ body {
 .cid-rAlnrZnRvS .dropdown-item:hover {
   color: #7f1933 !important;
 }
+#custom-html-k {
+  /* Type valid CSS here */
+}
+#custom-html-k div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-k p {
+  font-size: 60px;
+  color: #777;
+}
 .cid-rAvHArI0rt {
-  padding-top: 105px;
+  padding-top: 120px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
