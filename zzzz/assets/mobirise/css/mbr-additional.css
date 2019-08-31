@@ -3566,6 +3566,10 @@ body {
 .cid-rADdMs1WGc .content-slider-wrap {
   width: 60%;
 }
+.cid-rADdMs1WGc P {
+  text-align: center;
+  color: #ff3366;
+}
 .cid-rAlnrZnRvS .navbar {
   padding: .5rem 0;
   background: #ffffff;
